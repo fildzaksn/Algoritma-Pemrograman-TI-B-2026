@@ -22,5 +22,4 @@ def rata_rata(nilai):
     return(rata)
 
 data = [80, 75, 90, 60, 85]
-hasil = rata_rata(data)
-print("Rata rata nilai adalah", hasil)
+print(rata_rata(data))
