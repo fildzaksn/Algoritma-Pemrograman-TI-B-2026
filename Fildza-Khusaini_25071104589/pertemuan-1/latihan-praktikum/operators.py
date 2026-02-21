@@ -193,3 +193,5 @@ note: kalau prioritasnya sama atau setara, kerjakan dari kiri ke kanan
 
 print(12 + (5+2))   #dikerjakan dari bagian yang ada di dalam tanda () terlebih dahulu
 print(23 - 3 + 6)   #dikerjakan dari bagian kiri ke kanan, karna prioritasnya setara
+
+

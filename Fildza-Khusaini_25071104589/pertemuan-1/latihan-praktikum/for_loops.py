@@ -100,3 +100,5 @@ for x in [1, 2, 3, 4]:
     pass
 #jika for loop kosong tidak menggunakan statement pass, akan menimbulkan error
 
+benda = ["pena", "meja", "kursi"]
+

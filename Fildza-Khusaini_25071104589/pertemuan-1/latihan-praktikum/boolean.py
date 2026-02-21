@@ -60,3 +60,5 @@ x = 10
 print(isinstance(x, int))    # True
 print(isinstance(x, str))    # False
 #Fungsi isinstance() mengembalikan nilai True jika objek termasuk tipe data yang diperiksa, dan False jika tidak
+
+

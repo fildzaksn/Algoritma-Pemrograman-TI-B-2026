@@ -57,3 +57,5 @@ tipe3 = float(12.7)
 tipe4 = complex(2j)
 tipe5 = list(("apple", "pineapple", "pen"))
 tipe6 = dict(nama = 'pija', akt = 2025)
+
+benda = ["pena", "meja", "kursi"]
