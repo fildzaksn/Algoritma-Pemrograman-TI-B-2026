@@ -59,3 +59,4 @@ tipe5 = list(("apple", "pineapple", "pen"))
 tipe6 = dict(nama = 'pija', akt = 2025)
 
 benda = ["pena", "meja", "kursi"]
+print(tipe6)

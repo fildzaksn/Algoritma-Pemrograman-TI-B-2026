@@ -92,6 +92,11 @@ for x in buah:      #outer loop (x akan berisi buah)
         print(x, y)
         #cetak (nilai x dan y)
 
+for i in range (3):      
+    for j in range(2): 
+        print(i, j)
+        
+
 """=== the pass statement ===
 loop for tidak boleh kosong, 
 jika ingin kosong loop for kosong, gunakan pass statement untuk menghindari error"""

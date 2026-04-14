@@ -184,7 +184,7 @@ if umur >= 17:                 # cek dulu umur cukup atau tidak
         print("boleh masuk")   # kalau dua-duanya benar
 
 """ === multiples levels of nesting === """
-umur = 20
+umur = 5
 punya_tiket = True
 punya_ktp = True
 

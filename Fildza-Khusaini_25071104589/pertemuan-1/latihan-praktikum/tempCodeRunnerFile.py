@@ -1,7 +1,7 @@
-buah = ['apel', 'pisang', 'mangga']
-warna = ["merah", "kuning", "hijau"]
+i = 11
 
-for x in buah:      #outer loop (x akan berisi buah)
-    for y in warna: #inner loop (y akan berisi warna)
-        print(x, y)
-        #cetak (nilai x dan y)
+while i < 10:
+    print('yok belajar lagi')
+    i += 1
+else :
+    print('i lebih dari 10')
